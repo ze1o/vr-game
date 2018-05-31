@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 09bbbfbb2a742ea4f8200895cd199baf
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000
+  assetHash:
+    serializedVersion: 2
+    Hash: eb90b8c361da1ed2f63c82967f333437
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -58.35527, y: 23.891184, z: 19.593494}
+      lookAt: {x: -36.65279, y: 13.994254, z: 13.828623}
+      up: {x: 0.38979065, y: 0.9150642, z: -0.10354086}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bloom
+    100002: bloom 1
+    100004: bloom 10
+    100006: bloom 11
+    100008: bloom 12
+    100010: bloom 13
+    100012: bloom 14
+    100014: bloom 2
+    100016: bloom 3
+    100018: bloom 4
+    100020: bloom 5
+    100022: bloom 6
+    100024: bloom 7
+    100026: bloom 8
+    100028: bloom 9
+    100030: bloom stalk
+    100032: blooms
+    100034: blooms 1
+    100036: blooms 2
+    100038: branchlets
+    100040: branchlets 1
+    100042: branchlets 2
+    100044: Bryce
+    100046: //RootNode
+    100048: cone#1
+    100050: cone#1 1
+    100052: cone#1 10
+    100054: cone#1 11
+    100056: cone#1 12
+    100058: cone#1 13
+    100060: cone#1 14
+    100062: cone#1 15
+    100064: cone#1 16
+    100066: cone#1 17
+    100068: cone#1 18
+    100070: cone#1 19
+    100072: cone#1 2
+    100074: cone#1 20
+    100076: cone#1 21
+    100078: cone#1 22
+    100080: cone#1 23
+    100082: cone#1 24
+    100084: cone#1 25
+    100086: cone#1 26
+    100088: cone#1 27
+    100090: cone#1 28
+    100092: cone#1 29
+    100094: cone#1 3
+    100096: cone#1 30
+    100098: cone#1 31
+    100100: cone#1 32
+    100102: cone#1 33
+    100104: cone#1 34
+    100106: cone#1 35
+    100108: cone#1 36
+    100110: cone#1 37
+    100112: cone#1 38
+    100114: cone#1 39
+    100116: cone#1 4
+    100118: cone#1 40
+    100120: cone#1 41
+    100122: cone#1 42
+    100124: cone#1 43
+    100126: cone#1 44
+    100128: cone#1 45
+    100130: cone#1 46
+    100132: cone#1 47
+    100134: cone#1 48
+    100136: cone#1 49
+    100138: cone#1 5
+    100140: cone#1 50
+    100142: cone#1 51
+    100144: cone#1 52
+    100146: cone#1 53
+    100148: cone#1 54
+    100150: cone#1 55
+    100152: cone#1 56
+    100154: cone#1 6
+    100156: cone#1 7
+    100158: cone#1 8
+    100160: cone#1 9
+    100162: Group 1
+    100164: Group 3
+    100166: Group 5
+    100168: Group 7
+    100170: Group 9
+    100172: Rock_Small_Brown
+    100174: Rock_Small_Brown 1
+    100176: Rock_Small_Brown 2
+    100178: Rock_Small_Brown 3
+    100180: Rock_Small_Brown 4
+    100182: Rock_Small_Brown 5
+    100184: Rock_Small_Brown 6
+    100186: SimpleDome02
+    100188: SimpleDome02 1
+    100190: SimpleDome02 2
+    100192: stalk
+    100194: V_Plant_Yucca_ Stalk
+    100196: V_Tree_Palm_40ft
+    100198: V_Tree_Palm_40ft 1
+    100200: V_Tree_Palm_40ft 2
+    100202: V_Tree_Palm_40ft 3
+    400000: bloom
+    400002: bloom 1
+    400004: bloom 10
+    400006: bloom 11
+    400008: bloom 12
+    400010: bloom 13
+    400012: bloom 14
+    400014: bloom 2
+    400016: bloom 3
+    400018: bloom 4
+    400020: bloom 5
+    400022: bloom 6
+    400024: bloom 7
+    400026: bloom 8
+    400028: bloom 9
+    400030: bloom stalk
+    400032: blooms
+    400034: blooms 1
+    400036: blooms 2
+    400038: branchlets
+    400040: branchlets 1
+    400042: branchlets 2
+    400044: Bryce
+    400046: //RootNode
+    400048: cone#1
+    400050: cone#1 1
+    400052: cone#1 10
+    400054: cone#1 11
+    400056: cone#1 12
+    400058: cone#1 13
+    400060: cone#1 14
+    400062: cone#1 15
+    400064: cone#1 16
+    400066: cone#1 17
+    400068: cone#1 18
+    400070: cone#1 19
+    400072: cone#1 2
+    400074: cone#1 20
+    400076: cone#1 21
+    400078: cone#1 22
+    400080: cone#1 23
+    400082: cone#1 24
+    400084: cone#1 25
+    400086: cone#1 26
+    400088: cone#1 27
+    400090: cone#1 28
+    400092: cone#1 29
+    400094: cone#1 3
+    400096: cone#1 30
+    400098: cone#1 31
+    400100: cone#1 32
+    400102: cone#1 33
+    400104: cone#1 34
+    400106: cone#1 35
+    400108: cone#1 36
+    400110: cone#1 37
+    400112: cone#1 38
+    400114: cone#1 39
+    400116: cone#1 4
+    400118: cone#1 40
+    400120: cone#1 41
+    400122: cone#1 42
+    400124: cone#1 43
+    400126: cone#1 44
+    400128: cone#1 45
+    400130: cone#1 46
+    400132: cone#1 47
+    400134: cone#1 48
+    400136: cone#1 49
+    400138: cone#1 5
+    400140: cone#1 50
+    400142: cone#1 51
+    400144: cone#1 52
+    400146: cone#1 53
+    400148: cone#1 54
+    400150: cone#1 55
+    400152: cone#1 56
+    400154: cone#1 6
+    400156: cone#1 7
+    400158: cone#1 8
+    400160: cone#1 9
+    400162: Group 1
+    400164: Group 3
+    400166: Group 5
+    400168: Group 7
+    400170: Group 9
+    400172: Rock_Small_Brown
+    400174: Rock_Small_Brown 1
+    400176: Rock_Small_Brown 2
+    400178: Rock_Small_Brown 3
+    400180: Rock_Small_Brown 4
+    400182: Rock_Small_Brown 5
+    400184: Rock_Small_Brown 6
+    400186: SimpleDome02
+    400188: SimpleDome02 1
+    400190: SimpleDome02 2
+    400192: stalk
+    400194: V_Plant_Yucca_ Stalk
+    400196: V_Tree_Palm_40ft
+    400198: V_Tree_Palm_40ft 1
+    400200: V_Tree_Palm_40ft 2
+    400202: V_Tree_Palm_40ft 3
+    2100000: _defaultMat
+    2100002: Color_000
+    2100004: Groundcover_Sand_Smooth
+    2100006: Water_Sparkling1
+    2100008: Water_Sparkling
+    2100010: Wood_Bamboo_Medium
+    2100012: Color_A01
+    2100014: Color_E01
+    2100016: _DarkGoldenrod_
+    2100018: _Gray6_
+    2100020: _Beige_1
+    2100022: _Brown_
+    2100024: _Charcoal_
+    2100026: _Black_
+    2100028: _Redwood_
+    2100030: jean blue
+    2100032: _Concrete-Warm_
+    2100034: _1
+    2100036: _3
+    2100038: Stone_Brushed_Khaki
+    2100040: _DarkKhaki_
+    2100042: _LightGoldenrodYellow_
+    2100044: _Green_
+    2300000: bloom
+    2300002: bloom 1
+    2300004: bloom 10
+    2300006: bloom 11
+    2300008: bloom 12
+    2300010: bloom 13
+    2300012: bloom 14
+    2300014: bloom 2
+    2300016: bloom 3
+    2300018: bloom 4
+    2300020: bloom 5
+    2300022: bloom 6
+    2300024: bloom 7
+    2300026: bloom 8
+    2300028: bloom 9
+    2300030: Bryce
+    2300032: cone#1
+    2300034: cone#1 1
+    2300036: cone#1 10
+    2300038: cone#1 11
+    2300040: cone#1 12
+    2300042: cone#1 13
+    2300044: cone#1 14
+    2300046: cone#1 15
+    2300048: cone#1 16
+    2300050: cone#1 17
+    2300052: cone#1 18
+    2300054: cone#1 19
+    2300056: cone#1 2
+    2300058: cone#1 20
+    2300060: cone#1 21
+    2300062: cone#1 22
+    2300064: cone#1 23
+    2300066: cone#1 24
+    2300068: cone#1 25
+    2300070: cone#1 26
+    2300072: cone#1 27
+    2300074: cone#1 28
+    2300076: cone#1 29
+    2300078: cone#1 3
+    2300080: cone#1 30
+    2300082: cone#1 31
+    2300084: cone#1 32
+    2300086: cone#1 33
+    2300088: cone#1 34
+    2300090: cone#1 35
+    2300092: cone#1 36
+    2300094: cone#1 37
+    2300096: cone#1 38
+    2300098: cone#1 39
+    2300100: cone#1 4
+    2300102: cone#1 40
+    2300104: cone#1 41
+    2300106: cone#1 42
+    2300108: cone#1 43
+    2300110: cone#1 44
+    2300112: cone#1 45
+    2300114: cone#1 46
+    2300116: cone#1 47
+    2300118: cone#1 48
+    2300120: cone#1 49
+    2300122: cone#1 5
+    2300124: cone#1 50
+    2300126: cone#1 51
+    2300128: cone#1 52
+    2300130: cone#1 53
+    2300132: cone#1 54
+    2300134: cone#1 55
+    2300136: cone#1 56
+    2300138: cone#1 6
+    2300140: cone#1 7
+    2300142: cone#1 8
+    2300144: cone#1 9
+    2300146: Group 1
+    2300148: Group 3
+    2300150: Group 5
+    2300152: Group 7
+    2300154: Group 9
+    2300156: Rock_Small_Brown
+    2300158: Rock_Small_Brown 1
+    2300160: Rock_Small_Brown 2
+    2300162: Rock_Small_Brown 3
+    2300164: Rock_Small_Brown 4
+    2300166: Rock_Small_Brown 5
+    2300168: Rock_Small_Brown 6
+    2300170: SimpleDome02
+    2300172: SimpleDome02 1
+    2300174: SimpleDome02 2
+    2300176: stalk
+    2300178: V_Tree_Palm_40ft
+    2300180: V_Tree_Palm_40ft 1
+    2300182: V_Tree_Palm_40ft 2
+    2300184: V_Tree_Palm_40ft 3
+    3300000: bloom
+    3300002: bloom 1
+    3300004: bloom 10
+    3300006: bloom 11
+    3300008: bloom 12
+    3300010: bloom 13
+    3300012: bloom 14
+    3300014: bloom 2
+    3300016: bloom 3
+    3300018: bloom 4
+    3300020: bloom 5
+    3300022: bloom 6
+    3300024: bloom 7
+    3300026: bloom 8
+    3300028: bloom 9
+    3300030: Bryce
+    3300032: cone#1
+    3300034: cone#1 1
+    3300036: cone#1 10
+    3300038: cone#1 11
+    3300040: cone#1 12
+    3300042: cone#1 13
+    3300044: cone#1 14
+    3300046: cone#1 15
+    3300048: cone#1 16
+    3300050: cone#1 17
+    3300052: cone#1 18
+    3300054: cone#1 19
+    3300056: cone#1 2
+    3300058: cone#1 20
+    3300060: cone#1 21
+    3300062: cone#1 22
+    3300064: cone#1 23
+    3300066: cone#1 24
+    3300068: cone#1 25
+    3300070: cone#1 26
+    3300072: cone#1 27
+    3300074: cone#1 28
+    3300076: cone#1 29
+    3300078: cone#1 3
+    3300080: cone#1 30
+    3300082: cone#1 31
+    3300084: cone#1 32
+    3300086: cone#1 33
+    3300088: cone#1 34
+    3300090: cone#1 35
+    3300092: cone#1 36
+    3300094: cone#1 37
+    3300096: cone#1 38
+    3300098: cone#1 39
+    3300100: cone#1 4
+    3300102: cone#1 40
+    3300104: cone#1 41
+    3300106: cone#1 42
+    3300108: cone#1 43
+    3300110: cone#1 44
+    3300112: cone#1 45
+    3300114: cone#1 46
+    3300116: cone#1 47
+    3300118: cone#1 48
+    3300120: cone#1 49
+    3300122: cone#1 5
+    3300124: cone#1 50
+    3300126: cone#1 51
+    3300128: cone#1 52
+    3300130: cone#1 53
+    3300132: cone#1 54
+    3300134: cone#1 55
+    3300136: cone#1 56
+    3300138: cone#1 6
+    3300140: cone#1 7
+    3300142: cone#1 8
+    3300144: cone#1 9
+    3300146: Group 1
+    3300148: Group 3
+    3300150: Group 5
+    3300152: Group 7
+    3300154: Group 9
+    3300156: Rock_Small_Brown
+    3300158: Rock_Small_Brown 1
+    3300160: Rock_Small_Brown 2
+    3300162: Rock_Small_Brown 3
+    3300164: Rock_Small_Brown 4
+    3300166: Rock_Small_Brown 5
+    3300168: Rock_Small_Brown 6
+    3300170: SimpleDome02
+    3300172: SimpleDome02 1
+    3300174: SimpleDome02 2
+    3300176: stalk
+    3300178: V_Tree_Palm_40ft
+    3300180: V_Tree_Palm_40ft 1
+    3300182: V_Tree_Palm_40ft 2
+    3300184: V_Tree_Palm_40ft 3
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Bryce
+    4300006: Mesh Rock_Small_Brown
+    4300008: Mesh V_Tree_Palm_40ft
+    4300010: Mesh SimpleDome02
+    4300012: Mesh stalk
+    4300014: Mesh bloom
+    4300016: Mesh cone#1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
